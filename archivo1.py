@@ -1,4 +1,4 @@
-print("Hola Mundo")
+print("Chao Mundo")
 
-def funcion():
+def funcion2():
     pass
